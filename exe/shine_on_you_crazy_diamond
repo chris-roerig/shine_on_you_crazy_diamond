@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require "shine_on_you_crazy_diamond"
+
+puts ShineOnYouCrazyDiamond::Sing.now
