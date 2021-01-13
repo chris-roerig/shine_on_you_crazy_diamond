@@ -1,0 +1,22 @@
+PATH
+  remote: .
+  specs:
+    shine_on_you_crazy_diamond (1.0.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    minitest (5.14.3)
+    rake (13.0.3)
+
+PLATFORMS
+  x86_64-linux
+
+DEPENDENCIES
+  bundler (>= 2.2.5)
+  minitest (~> 5.0)
+  rake (>= 12.3.3)
+  shine_on_you_crazy_diamond!
+
+BUNDLED WITH
+   2.2.5
